@@ -1,0 +1,15 @@
+{
+  "name": "bot-arabi-24h",
+  "version": "2.0.0",
+  "description": "بوت واتساب عربي 24 ساعة مجانا - آمن للعلامة الزرقاء",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.16.0",
+    "express": "^4.18.2"
+  }
+}
